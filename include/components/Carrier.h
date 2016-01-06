@@ -4,6 +4,7 @@
 //
 // #include "util/definitions.h"
 // #include "virtual/component.h"
+// #include "render/sdl/actor_2d.h"
 //
 // class Carrier : public Component {
 // protected:
